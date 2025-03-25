@@ -22,5 +22,3 @@ try:
     print(f"Followers: {user_info.follower_count}")
 except Exception as e:
     print(f"Failed to retrieve user info: {e}")
-
-# this is a test
