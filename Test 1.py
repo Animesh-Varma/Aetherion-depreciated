@@ -3,7 +3,7 @@ import time
 from instagrapi import Client
 
 cl = Client()
-SESSION_ID = "SESSION"
+SESSION_ID = "73300373711%3AktDL7jfBQoffRd%3A6%3AAYdXUbtnXs1LtbGC5jIjOJO4Gx9A0NZ6E688crM7Vw"
 
 cl.delay_range = [1, 3]
 
