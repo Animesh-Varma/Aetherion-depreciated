@@ -3,10 +3,9 @@ from instagrapi import Client
 import time
 import signal
 import os
+from config import API_KEY, SESSION_ID, OWNER_USERNAME
 
 cl = Client()
-SESSION_ID = "73300373711%3AktDL7jfBQoffRd%3A6%3AAYdXUbtnXs1LtbGC5jIjOJO4Gx9A0NZ6E688crM7Vw"
-OWNER_USERNAME = "animesh_varma"
 BOT_NAME = "raphael"
 PROCESSED_FILE = "processed_dms.txt"
 auto_responding = True
